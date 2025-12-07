@@ -2,9 +2,9 @@
 title: "PhD Dissertation Defense: Framing attributions"
 collection: talks
 type: "Dissertation Defense"
-permalink: /talks/2025-12-07-dissertation-defense
+permalink: /talks/2025-12-08-dissertation-defense
 venue: "Hertie School"
-date: 2025-12-07
+date: 2025-12-08
 location: "Berlin, Germany"
 ---
 
