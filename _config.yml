@@ -24,11 +24,11 @@ author:
   avatar           : "bio-photo.png"
   name             : "Paulina Garcia Corral"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Researcher at the Hertie School"
-  location         : "Berlin"
-  employer         : "Hertie School"
+  bio              : "PostDoc at ETH Zürich"
+  location         : "Zürich"
+  employer         : "ETH Zürich"
   uri              : # URL
-  email            : "corral@hertie-school.org" 
+  email            : "paulina.garcia_corral@gess.ethz.ch" 
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
